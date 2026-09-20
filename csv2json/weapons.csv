@@ -55,7 +55,7 @@ Tarot,-,140,-,-,-,Setzer,Holy damage; undead slayer; Ignores row
 Viper Darts,-,160,-,-,-,Setzer,Uses MP for critical hits; Ignores row
 Dice,5000,-,-,-,-,Setzer,Damage = (2Lv. * D1 * D2); always hits; Ignores row
 Fixed Dice,-,-,-,-,-,Setzer,Damage = (2Lv. * D1 * D2 * D3); always hits; Ignores row
-Magus Rod,-,90,-,-,Stam +3,Strago Mog Relm Gogo,Initial: Strago,May cast Rasp
+Magus Rod,-,90,-,-,Stam +3,Strago Mog Relm Gogo,Initial: Strago; May cast Rasp
 Fire Rod,2500,120,-,-,Mag +3,Strago Mog Relm Gogo,May cast Fire 2; MP crit = 2x spell damage; High spellcast rate
 Ice Rod,2500,120,-,-,Mag +3,Strago Mog Relm Gogo,May cast Ice 2; MP crit = 2x spell damage; High spellcast rate
 Thunder Rod,2500,120,-,-,Mag +3,Strago Mog Relm Gogo,May cast Bolt 2; MP crit = 2x spell damage; High spellcast rate
