@@ -4,7 +4,7 @@ Albatross,Fireball,Foe Group,60,Fire damage (1/2 damage on multi-target); may se
 Anemone,Discharge,All Foes,75,Bolt damage,(Attack),Single,Fight,Sets “Poison”
 Antlion,(Attack),Single,Fight,Sets “Stop” (no dmg),Snare,One Foe,-,Instant death; no stamina evasion
 Behemoth,(Attack),Single,Fight,2x damage,Meteo,All Foes,60,Ignores defense; low accuracy
-Belladonna,Moonlight,All Foes,90,Holy damage (1/2 damage on multi-target),Raid,One Foe,25,Steals HP/MP; ignores defense; unreflectable
+Belladonna,Moonlight,All Foes,90,Holy damage (1/2 damage on multi-target),Leech,One Foe,25,Steals HP/MP; ignores defense; unreflectable
 Bomb,Exploder,All Foes,-,Damage = 2.5x caster’s (current) HP,Exploder,All Foes,-,Damage = 2.5x caster’s (current) HP
 Brainpan,Blow Fish,One Foe,-,Physical damage; damage = 1000,Rerise,One Ally,-,Sets “Rerise”
 Buffalax,Landslide,All Foes,60,Earth damage; ground attack; may set “Slow”,(Attack),Single,Fight,3x damage
@@ -21,9 +21,9 @@ Gargoyle,Sun Bath,Party,20,Cures HP (stamina-based),Quake,All,50,Earth damage; g
 Griffin,Giga Volt,One Foe,120,Bolt/Wind damage; may set “Sap”,Air Blast,Free,-,Wind damage; damage = (HP*1/2)
 Grizzly,Cave In,One Foe,-,Earth damage; damage = (HP*3/4); sets “Sap”,(Attack),Single,Fight,3x damage
 Hornet,(Attack),Single,Fight,3x damage,Blink,One Ally,-,Sets “Image”/”Haste”
-Io,Atomic Ray,One Foe,90,Non-elemental damage; unreflectable,Diffuser,All Foes,90,Bolt damage (1/2 damage on multi-target)
+Io,Atomic Ray,One Foe,90,Non-elemental damage; unreflectable,Volt Array,All Foes,90,Bolt damage (1/2 damage on multi-target)
 Jinn,Discord,One Foe,-,Sets “Muddle”/”Bserk”,(Attack),Single,Fight,Sets “Mute”
-Kudzu,Raid,One Foe,25,Steals HP/MP; ignores defense; unreflectable,RegenX,Ally Group,10,Cures HP (stamina-based); sets “Regen”
+Kudzu,Leech,One Foe,25,Steals HP/MP; ignores defense; unreflectable,RegenX,Ally Group,10,Cures HP (stamina-based); sets “Regen”
 Leafer,Wind Slash,All Foes,50,Wind damage,Air Blast,Free,-,Wind damage; damage = (HP*1/2)
 Lich,Rasp,Single,25,MP damage,Elf Fire,One Foe,72,Fire damage
 Locust,Gale Cut,All Foes,25,Wind damage,Mirage,Party,-,Randomly sets “Image” (odds = 1/2)
@@ -50,11 +50,11 @@ Soldier,Cure 2,Free,25,Cures HP (1/2 damage on multi-target),(Attack),Single,Fig
 Spirit,Demi,Single,-,Earth damage; damage = (HP*1/2),Quartr,Foe Group,-,Earth damage; damage = (HP*3/4)
 Stray Cat,Snowball,Foe Group,50,Ice damage (1/2 damage on multi-target); may set “Slow”,(Attack),Single,Fight,3x damage
 Tek Armor,Barrier,One Ally,-,Sets “Shell”/”Rflect”; unreflectable,(Attack),Single,Fight,2x damage
-Templar,(Attack),Single,Fight,3x damage,Remedy,One Ally,15,Cures HP (stamina-based); lifts most bad statuses
+Templar,(Attack),Single,Fight,3x damage,Restore,One Ally,15,Cures HP (stamina-based); lifts most bad statuses
 Titan,Avalanche,One Foe,60,Earth damage; ignores defense,(Attack),Single,Fight,3x damage
 Troll,(Attack),Single,Fight,3x damage,Refract,One Ally,-,Sets “Image”/”Rflect”; unreflectable
 Tumbleweed,Cure 3,Free,40,Cures HP (1/2 damage on multi-target),(Attack),Single,Fight,Steals HP
-Tyrano,(Attack),Single,Fight,3x damage,Firestorm,All Foes,45,Fire/Water damage
+Tyrano,(Attack),Single,Fight,3x damage,Boil,All Foes,45,Fire/Water damage
 Vagrant,Flash Rain,All Foes,60,Bolt/Water damage,(Attack),Single,Fight,2x damage
 Vaporite,Plasma,One Foe,72,Bolt/Water damage,(Attack),Single,Fight,Sets “Blind” (no dmg)
 Vulture,Razor Leaf,All Foes,100,Earth/Wind damage (1/2 damage on multi-target),Harvester,Party,10,Cures HP (stamina-based); lifts most bad statuses
