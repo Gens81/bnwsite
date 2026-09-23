@@ -1,0 +1,214 @@
+[
+    {
+        "NAME": "DANCE_MODES",
+        "MODE": ""
+    },
+    {
+        "NAME": "Wind Song",
+        "MODE": [
+            {
+                "ODDS": "Odds",
+                "RESULT": "Result"
+            },
+            {
+                "ODDS": "Shift (2/3)",
+                "RESULT": "Sun Bath"
+            },
+            {
+                "ODDS": "Repeat (2/3)",
+                "RESULT": "Wind Slash"
+            },
+            {
+                "ODDS": "Uncommon (1/3)",
+                "RESULT": "Razor Leaf"
+            },
+            {
+                "ODDS": "Rare (1/16)",
+                "RESULT": "Cockatrice"
+            }
+
+        ]
+    },
+    {
+        "NAME": "Desert Aria",
+        "MODE": [
+            {
+                "ODDS": "Odds",
+                "RESULT": "Result"
+            },
+            {
+                "ODDS": "Shift (2/3)",
+                "RESULT": "Mirage"
+            },
+            {
+                "ODDS": "Repeat (2/3)",
+                "RESULT": "Sun Bath"
+            },
+            {
+                "ODDS": "Uncommon (1/3)",
+                "RESULT": "Sand Storm"
+            },
+            {
+                "ODDS": "Rare (1/16)",
+                "RESULT": "Meerkat"
+            }
+
+        ]
+    },
+    {
+        "NAME": "Forest Suite",
+        "MODE": [
+            {
+                "ODDS": "Odds",
+                "RESULT": "Result"
+            },
+            {
+                "ODDS": "Shift (2/3)",
+                "RESULT": "Razor Leaf"
+            },
+            {
+                "ODDS": "Repeat (2/3)",
+                "RESULT": "Harvester"
+            },
+            {
+                "ODDS": "Uncommon (1/3)",
+                "RESULT": "Elf Fire"
+            },
+            {
+                "ODDS": "Rare (1/16)",
+                "RESULT": "Raccoon"
+            }
+
+        ]
+    },
+    {
+        "NAME": "Earth Blues",
+        "MODE": [
+            {
+                "ODDS": "Odds",
+                "RESULT": "Result"
+            },
+            {
+                "ODDS": "Shift (2/3)",
+                "RESULT": "Landslide"
+            },
+            {
+                "ODDS": "Repeat (2/3)",
+                "RESULT": "Avalanche"
+            },
+            {
+                "ODDS": "Uncommon (1/3)",
+                "RESULT": "Sun Bath"
+            },
+            {
+                "ODDS": "Rare (1/16)",
+                "RESULT": "Jackrabbit"
+            }
+
+        ]
+    },
+    {
+        "NAME": "Dusk Requiem",
+        "MODE": [
+            {
+                "ODDS": "Odds",
+                "RESULT": "Result"
+            },
+            {
+                "ODDS": "Shift (2/3)",
+                "RESULT": "Moonlight"
+            },
+            {
+                "ODDS": "Repeat (2/3)",
+                "RESULT": "Snare"
+            },
+            {
+                "ODDS": "Uncommon (1/3)",
+                "RESULT": "Cave In"
+            },
+            {
+                "ODDS": "Rare (1/16)",
+                "RESULT": "Wombat"
+            }
+
+        ]
+    },
+    {
+        "NAME": "Love Sonata",
+        "MODE": [
+            {
+                "ODDS": "Odds",
+                "RESULT": "Result"
+            },
+            {
+                "ODDS": "Shift (2/3)",
+                "RESULT": "Elf Fire"
+            },
+            {
+                "ODDS": "Repeat (2/3)",
+                "RESULT": "Bedevil"
+            },
+            {
+                "ODDS": "Uncommon (1/3)",
+                "RESULT": "Moonlight"
+            },
+            {
+                "ODDS": "Rare (1/16)",
+                "RESULT": "Tapir"
+            }
+
+        ]
+    },
+    {
+        "NAME": "Water Rondo",
+        "MODE": [
+            {
+                "ODDS": "Odds",
+                "RESULT": "Result"
+            },
+            {
+                "ODDS": "Shift (2/3)",
+                "RESULT": "El Nino"
+            },
+            {
+                "ODDS": "Repeat (2/3)",
+                "RESULT": "Plasma"
+            },
+            {
+                "ODDS": "Uncommon (1/3)",
+                "RESULT": "Surge"
+            },
+            {
+                "ODDS": "Rare (1/16)",
+                "RESULT": "Toxic Frog"
+            }
+
+        ]
+    },
+    {
+        "NAME": "Snowman Jazz",
+        "MODE": [
+            {
+                "ODDS": "Odds",
+                "RESULT": "Result"
+            },
+            {
+                "ODDS": "Shift (2/3)",
+                "RESULT": "Blizzard"
+            },
+            {
+                "ODDS": "Repeat (2/3)",
+                "RESULT": "Surge"
+            },
+            {
+                "ODDS": "Uncommon (1/3)",
+                "RESULT": "Mirage"
+            },
+            {
+                "ODDS": "Rare (1/16)",
+                "RESULT": "Snowbird"
+            }
+
+        ]
+    }
+]
